@@ -1,1 +1,18 @@
 
+，export GOROOT=/usr/local/go
+
+ export GOPATH=/home/bruce/goProject 
+
+ export GOBIN=$GOPATH/bin
+
+ export PATH=$PATH:$GOROOT/bin
+
+ export PATH=$PATH:$GOPATH/bin
+
+作者：QxQx
+
+链接：https://www.jianshu.com/p/33cf4f41cae9
+
+來源：简书
+
+简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
